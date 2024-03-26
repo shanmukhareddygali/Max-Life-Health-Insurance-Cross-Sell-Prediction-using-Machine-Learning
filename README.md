@@ -45,3 +45,6 @@ PolicySalesChannel : Anonymized Code for the channel of outreaching to the custo
 Vintage : Number of Days, Customer has been associated with the company
 
 Response : 1 - Customer is interested, 0 - Customer is not interested
+
+## Conclusion
+Starting from loading our dataset, I firstly performed data cleaning and EDA.After that data prepocessing which includes missing value and outlier handling feature selection,data imbalance handling,data splitting,feature scaling and algorithm selection. I selected logistic regression,Random forest classifier and XGB classifier.The Roc-Auc score obtained for all models was in the range of 80% to 95%. But we selected our best model as the model with an Roc-Auc score of 94% which is Random forest classifier.
