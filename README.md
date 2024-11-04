@@ -1,4 +1,4 @@
-# Health-Insurance-Cross-Sell-Prediction-Classification
+# Max Life Health-Insurance-Cross-Sell-Prediction-Classification
 ## Project Summary -
 I have information about demographics (gender, age, region code type), vehicles (vehicle age, damage), policies (premium, sourcing channel), and so on to predict whether the customer would be interested in Vehicle insurance. After loading our dataset, I initially checked for null values and duplicates. There were no null values and duplicates so treatment of such was not required. In data preprocessing, I handled outliers,did feature selection,handled imbalances in dataset,splitting dataset and applied feature scaling techniques to our data make it easier to process ML algorithms.
 
